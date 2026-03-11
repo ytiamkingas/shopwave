@@ -1,0 +1,35 @@
+# MAVEN BUILD OUTPUT
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# ECLIPSE WORKSPACE
+.metadata/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+*.log
+logs/
+application-local.yml
+*.env
+
+# Docker volumes
+postgres_data/
+mongo_data/

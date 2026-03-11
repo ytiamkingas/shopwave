@@ -280,19 +280,11 @@ shopwave/
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- Email: your@email.com
-
+**Sagnik Maity**
+- GitHub: [@ytiamkingas](https://github.com/ytiamkingas)
+- Email: sagnikmaity2005@gmail.com
 ---
 
 > ⭐ If you found this project useful, please consider giving it a star!
